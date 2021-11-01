@@ -1,6 +1,13 @@
 # Sorting Training System
+A sorting script to add random people and sort them with time estimation.
 
-## Project setup
+## Project setup 
+### Install Yarn Globally
+```
+npm install --global yarn
+```
+
+###Download Required NPM Repositories
 ```
 yarn install
 ```
